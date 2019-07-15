@@ -29,7 +29,7 @@ npm install
 yarn global add json-server
 json-server server.json -p 3333
 
-#another terminla run:
+#another terminal run:
 yarn start
 ```
 
